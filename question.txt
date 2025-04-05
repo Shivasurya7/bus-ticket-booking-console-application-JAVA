@@ -1,0 +1,174 @@
+question :
+
+1)Sign up
+2)Login
+3)Exit
+
+1
+Enter Customer id, Customer name, Password, Age, Gender
+1001
+Tamil
+Tamil@123
+29
+M
+Back to home page
+1)Sign up
+2)Login
+3)Exit
+
+2
+Enter Customer id and Password to Login
+1001
+Tamil@1234
+Invalid Login or Password
+1)Sign up
+2)Login
+3)Exit
+
+2
+Enter Customer id and Password to Login
+1001
+Tamil@123
+Logged in Successfully...
+Welcome Tamil
+
+1)BookTickects
+2)ViewTickets
+3)CancelTickets
+4)Summary
+5)Logout
+2
+Enter bustype,seattype
+ac
+seater
+*->Driver
+
+*  1  2  3 
+   4  5  6 
+  ------>
+   7  8  9 
+   10  11  12 
+  
+1)BookTickects
+2)ViewTickets
+3)CancelTickets
+4)Summary
+5)Logout
+1
+Choose bustype,seattype
+ac
+seater
+Enter the no of tickets you want to book
+2
+Enter the seat number to be booked:1
+Enter gender(M or F):F
+Enter the seat number to be booked:4
+Enter gender(M or F):M
+Cannot book seat....Please choose male seat neighbour
+Enter the seat number to be booked:2
+Enter gender(M or F):M
+-------------------------------
+Your Ticket id is:0
+You have to pay Rs.1300.0
+Your Tickets were booked
+!!!!Happy Journey!!!!
+-------------------------------
+
+1)BookTickects
+2)ViewTickets
+3)CancelTickets
+4)Summary
+5)Logout
+2
+Enter bustype,seattype
+ac
+seater
+*->Driver
+
+*  F  M  3 
+   4  5  6 
+  ------>
+   7  8  9 
+   10  11  12 
+  
+1)BookTickects
+2)ViewTickets
+3)CancelTickets
+4)Summary
+5)Logout
+
+4
+Bus summary:
+Bus type: AC
+Seat type: seater
+Booked seats: 2
+------------------------
+Bus type: AC
+Seat type: sleeper
+Booked seats: 0
+------------------------
+Bus type: Non-AC
+Seat type: seater
+Booked seats: 0
+------------------------
+Bus type: Non-AC
+Seat type: sleeper
+Booked seats: 0
+------------------------
+
+1)BookTickects
+2)ViewTickets
+3)CancelTickets
+4)Summary
+5)Logout
+3
+Enter booking id
+0
+-----------------------
+Ticket details are:
+
+Bus type:AC
+Seat type:seater
+Booked by the customer id:1001
+No. of tickets:2
+Booked seates:[1, 2]
+------------------------
+Your ticket has been deleted successfully!!!
+Your amount 1300.0 will return back soon...
+Thank you
+
+1)BookTickects
+2)ViewTickets
+3)CancelTickets
+4)Summary
+5)Logout
+4
+Bus summary:
+Bus type: AC
+Seat type: seater
+Booked seats: 0
+------------------------
+Bus type: AC
+Seat type: sleeper
+Booked seats: 0
+------------------------
+Bus type: Non-AC
+Seat type: seater
+Booked seats: 0
+------------------------
+Bus type: Non-AC
+Seat type: sleeper
+Booked seats: 0
+------------------------
+
+1)BookTickects
+2)ViewTickets
+3)CancelTickets
+4)Summary
+5)Logout
+5
+You have successfully loggedout...come back again!!!
+1)Sign up
+2)Login
+3)Exit
+3
